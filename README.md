@@ -22,7 +22,6 @@ Si tuviera que destacar una de mis habilidades, seria principalmente la de super
 	 - Gobstones
 	 - FlowCharts(DFD,Raptor)
 	 - PseudoCodigo
-	 - FlowCharts (DFD, Raptor)
 # Formación
  - Secundaria: Colegio Nacional Bartolomé Mitre | *Orientación con Ciencias Sociales.*
 	
