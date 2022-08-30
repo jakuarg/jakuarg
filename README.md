@@ -15,8 +15,8 @@ Si tuviera que destacar una de mis habilidades, seria principalmente la de super
 	 - UML
 	 - C
 	 - C++
-	 - HTML
-	 - CSS
+	 - HTML5
+	 - CSS3
 	 - Haskell
 	 - Prolog
 	 - Gobstones
@@ -34,8 +34,9 @@ Si tuviera que destacar una de mis habilidades, seria principalmente la de super
 		- JavaScript
 		- Ruby
 	- **Oracle Next Education & Alura**
-		- HTML / JavaScript
-		- **Ingles Orientado a Ingeniería | PROGRESAR ARGENTINA**
+		- HTML5 / JavaScript
+		- CSS3
+	- **Ingles Orientado a Ingeniería | PROGRESAR ARGENTINA**
 	- **Aleman A1.1 | UTNfrt**
 	- **COHORTE Futuros Programadores 2022**
 		- PseudoCoding
