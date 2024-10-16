@@ -66,6 +66,15 @@ Si tuviera que destacar una de mis habilidades, seria principalmente la de super
 			- **Sintaxis y Semantica de Los Lenguajes**
 			- Sistemas Operativos
 				- Uso de Linux
+			- Diseño de Sistemas
+				- Diseño orientado a objetos
+			- Economia
+			- Ingles I & Ingles II
+				- Tecnicismos útiles para la carrera
+			- Probabilidades y Estadísticas
+			- **Administración de Recursos**
+			- Legislacion
+				- Derecho Informático e Informática Jurídicaa
 			- **Diseño de Sistemas**
 				- Diseño orientado a objetos
 			- **Economia**
